@@ -149,5 +149,6 @@ Configure as credenciais do Firebase no arquivo `src/firebase/index.js`
 ISC License
 
 ---
-
+Desenvolvido para a aula de Desenvolvimento Multiplataforma - Fatec Zona Leste
+---
 © 2024 - Sistema de Monitoramento de Temperatura e Umidade
